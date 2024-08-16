@@ -11,8 +11,8 @@ interface Category {
 
 // Example data for categories
 const categories: Category[] = [
-  { id: '1', title: 'Naturex' },
-  { id: '2', title: 'Technology' },
+  { id: '1', title: 'Nature' },
+  { id: '2', title: 'Technologies' },
   { id: '3', title: 'Art' },
   { id: '4', title: 'Travel' },
   { id: '5', title: 'Food' },
